@@ -1,0 +1,9 @@
+textual
+textual[syntax]
+pyyaml
+rich
+asyncio
+together
+Pygments
+psutil
+
